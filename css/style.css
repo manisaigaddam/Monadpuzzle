@@ -16,7 +16,7 @@ html{
     }
 
     body {
-        background-image: url('file:///C:/Users/saiga/Onedrive/Desktop/monad-portfolio/css/images/background.png');
+        background-image: url('https://raw.githubusercontent.com/manisaigaddam/Monadpuzzle/refs/heads/main/css/images/background.png');
         background-size: cover;
         background-repeat: no-repeat;
     }
